@@ -6,7 +6,7 @@
 - Having no bloat (Only what the user chooses even going as far as letting them choose what dependencies use or not)
 - Having good tutorials and user friendly
 - Have compatibility with .deb appimage flatpack and snap (i dont know if .deb compatibility is really possible, also want the flatpaks and snaps defaults to be on /home if the installer finds one)
-- The user can choose the kernel (probably via wifi to let the user search what it needs)
+- The user can choose the kernel (probably via internet to let the user search what it needs)
 - The user can choose the drivers, an option for every computer driver
 - Have a devlog so everyone can see the changes through the time
 - Have version for servers for arms and for x86_64
