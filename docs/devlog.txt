@@ -1,9 +1,0 @@
-DEVLOG first day making this good progress the day is 23-04-2025 im tired its 3 am and i have been working on this since 23:10 i kinda reach a point
-were i need to study very hard i kinda know what to doo, make the rest of the configurations and etc, but after that im a bit lost im using very
-much ai to help me, searching this on web is very hard, also need to learn better how to script bash i kinda think its funny anyway im going
-to sleep this was day one i also tried to make this to git but i failed if somebody was here to help me out that would be so fucking good iknow
-this is ambicious project and it can pretty much change how i view linux and others may too but i need to keep walking forward tomorrow or when i
-put the foot on here il make the rest of the customization i also want this to be on a usb so i need to gain a way to put essential drivers on this
-so the reallyheavy and hard part can start, also my pc its shit it doenst work with a kvm or thing like that i dont know if thats gonna be a 
-heavy barrier and also i have two others pcs but they are so hold they cant have uefi but they can be good if i want to see if this runs on older 
-hardware anyway have a goodnight or day i dont know
