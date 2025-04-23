@@ -14,7 +14,7 @@
 - A version for dvd and nethinst
 - The user can choose the audio manager
 - The user can choose the graphical manager (x11 or wayland (even both sometimes))
-- The user can personalize everything and edit everything like a tty directly on the instalation where you can edit even the installator 
+- The user can personalize everything and edit everything like a tty directly on the instalation where you can edit even the installer 
 - Have custom sounds and themes that you choose (also want to have ones for the system itself but only if the person wants)
 - Be 100% open source (can give the option to install non free drivers on the installation withtou needing an usb like debian)
 - Fast and light
