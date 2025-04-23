@@ -19,7 +19,7 @@
 - Be 100% open source (can give the option to install non free drivers on the installation without needing an USB like debian)
 - Fast and light
 - Neutral range of packages (not so bleeding edge and not so old(user can also choose))
-- The user can choose the kernel loader such a systemd and etc
+- The user can choose the kernel loader, such a systemd, etc and even allowing users to choose the bootloader
 - The user can choose their own package manager (thats the hard part, its almost impossible to do that thats why this is a big challenge)
 - The user can choose the way they want to install and also to be friendly with everyone (like people with disabilities everyone is the same)
 
