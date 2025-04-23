@@ -45,3 +45,8 @@ many separators like drivers for wifi, drivers for ethernet, drivers for gpu, ot
 "another thing to have in mind is if im doing a reboot the older core scripts may not work, i might literaly just create them one by one by hand, and another thing, the v0.2 have a lot of comments and the comments have a portuguese version and english one so everybody can modify it, the code inst installing everything yet but its already with 90lines and it doenst use any other scripts on core, oh and right i already maked a new script for storing things to remove later, like i want the user to have full control so it needs that so the system dont comes with packages from the installation im still letting the user decide what packages they want though, and to finish this devlog im also letting you know im probably changing how de configs work, i still need a lot to think, costumization can get to a rabit hole" 
 
 "well thats all for now, im going to rest a bit now all that thinking and scripting got me tired, i come back at 1 am or sooner, now byeeee!" - Kilko64
+
+## 24-04-2025
+
+"its kilko again, imgoing to start working at this in a bit, its now 0:25 and im going to start this at 1 am, just wanted to say an honorable mention to the user Cridr4edri"
+"that user called cridr4edri helped me on the grammar errors and catching spelling errors on the git readme and etc, without his help i probably even cared for the errors so thank you cridr4edri for your good english" - kilko
