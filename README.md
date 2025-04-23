@@ -21,5 +21,5 @@
 - Neutral range of packages (not so bleeding-edge and not so old(user can also choose))
 - The user can choose the kernel loader, such a systemd, etc and even allowing users to choose the bootloader
 - The user can choose their own package manager (thats the hard part, its almost impossible to do that thats why this is a big challenge)
-- The user can choose the way they want to install and also to be friendly with everyone (like people with disabilities everyone is the same)
+- Everyone is welcome, no matter what eventhe person has disabilities everyone can still use the system and Gecko Manager
 
