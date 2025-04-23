@@ -1,0 +1,13 @@
+# Ignore temporary files
+*.log
+*.tmp
+*.swp
+# Ignore directories like build, bin, and obj
+build/
+bin/
+obj/
+# Ignore config files with sensitive info
+config/*
+!config/core_config.conf
+!config/system_config.conf
+!config/ui_config.conf
