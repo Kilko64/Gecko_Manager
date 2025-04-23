@@ -3,7 +3,7 @@
 ## Objectives
 
 - Be stable and bleeding-edge (Want to give user the option)
-- Having no bloat (Only what the user chooses even going as far as letting them choose what dependencies use or not)
+- Having no bloat (Only what the user chooses, even going as far as letting them choose what dependencies use or not)
 - Having good tutorials and user friendly
 - Have compatibility with .deb appimage flatpack and snap (i dont know if .deb compatibility is really possible, also want the flatpaks and snaps defaults to be on /home if the installer finds one)
 - The user can choose the kernel (probably via internet to let the user search what it needs)
