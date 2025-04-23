@@ -21,5 +21,5 @@
 - Neutral ranged packages (not so bleeding edge and not so old(user can also choose))
 - The user can choose the kernel loader such a systemmd and etc
 - The user can choose your own package manager (thats the hard part, its almost impossible to do that thats why this is a big challenge)
-- The user can choose the way they want to install and also to be friendly with everyone (like people with disabilitys everyone is the same)
+- The user can choose the way they want to install and also to be friendly with everyone (like people with disabilities everyone is the same)
 
