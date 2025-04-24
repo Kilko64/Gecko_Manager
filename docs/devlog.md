@@ -79,3 +79,8 @@ many separators like drivers for wifi, drivers for ethernet, drivers for gpu, ot
 
 "Kilko here its currently 22:55 and i have some good and bad news, lets hear the bad news, currently on the project i cant test the script so for the next days i will pretty much work on setting a KVM and setting a iso, why that?"
 "well im now on the project needing to test it, i still havent tested the v0.2, because i need a kvm for that so i can actually see if it installes all the essential drivers correctly but heres the thing how do i put this on a kvm? for that i need a iso for the project, for that i need to finaly build this, and that means i also finally need to choose the base for this distro, i probably make gecko manager 2 yes a second where its lfs based, but for now this project is going to be debian based, more specificaly, debian testing based and now im working on building the iso, so thats the bad news, but we still got one good new, and its that cridr4edri is going to enter this project as a contributier his role for now? probably learn bash to help me and let this github page a bit better" - Kilko64
+
+## 25-04-2025
+
+00:17
+So, I am cridr4edri I joined mostly because they didn't really care about grammar and spelling mistakes, my writing isn't flawless but at least I check to see if everything is correct ESPECIALLY IF IT'S FOR README though my knowledge(yes, pantuga it has a W) about Linux and Bash is also limited, I have dual boot but I don't really use Linux that much. However I am willing to learn Bash to help kilko.
