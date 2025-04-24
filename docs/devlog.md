@@ -49,4 +49,4 @@ many separators like drivers for wifi, drivers for ethernet, drivers for gpu, ot
 ## 24-04-2025
 
 "its kilko again, imgoing to start working at this in a bit, its now 0:25 and im going to start this at 1 am, just wanted to say an honorable mention to the user Cridr4edri"
-"that user called cridr4edri helped me on the grammar errors and catching spelling errors on the git readme and etc, without his help i wouldn't even cared for the errors so thank you cridr4edri for your good english" - kilko
+"that user called cridr4edri helped me on the grammar errors and catching spelling errors on the git readme and etc, without his help i wouldn't even cared for the errors so thank you cridr4edri for your good english" - Kilko64
