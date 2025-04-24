@@ -63,6 +63,14 @@ many separators like drivers for wifi, drivers for ethernet, drivers for gpu, ot
 
 "i also maked a new folder called logs, it has the logs of the temporary packages of the installer basicaly tells mw what is on the temporary packages or the tmpp array and that was pretty much it for today very very very early morning, i need to rest my head, i probably will set a kvm tomorrow, now im going to make a txt for pantuga so he can see what to do, oh right almost forgot"
 
-"i also on the core folder putted all the things if v0.1 on a folder so it dont get mixed anyway now im done"
+"i also put on the core folder all the things if v0.1 on a folder so it dont get mixed anyway now im done"
 
 "now have a good night, or day i really dont care" - Kilko64
+
+------
+
+"Pantuga here, i updated all the files for the version 0.2, and added a new folder for the old versions, i think it's more organised this way.
+
+"i need to help Kilko troubleshoot git so he doesn't depend on me to upload the project here, and i'm also hoping to start contributing to the code sometime.
+
+"All the changes made in this newer version were explained above, so i guess there isn't anything else i need to document here." - Pantuga
