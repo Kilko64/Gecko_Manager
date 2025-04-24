@@ -50,3 +50,18 @@ many separators like drivers for wifi, drivers for ethernet, drivers for gpu, ot
 
 "its kilko again, imgoing to start working at this in a bit, its now 0:25 and im going to start this at 1 am, just wanted to say an honorable mention to the user Cridr4edri"
 "that user called cridr4edri helped me on the grammar errors and catching spelling errors on the git readme and etc, without his help i wouldn't even cared for the errors so thank you cridr4edri for your good english" - Kilko64
+
+---------------------------------------------------------------------------------------------------------------------------
+"hi kilko here its 2:11 am im tired and im going to end early because i have sleeped at 4 am yesterday and the other day too so i need to get some good hours of sleep, i have done some progress though"
+
+"ok first thing is, i setted the essential debs on GeckoManager v0.2 so now the essential packages are on the Fdriver folder and i dont need wifi to install it, i may have changed a bit the Fdriver folder, i putted all on the subfolder Networkingapps so all the programs are there, but theres a problem, i counld put there the depencides too so its something i need to work, need to put the dependecies there too"
+
+"second thing, maked the script to install those .deb i have not tested yet because i dont have a virtual machine to text it but on teory it should work, of course if i trie its probablu going to give me some error, but fuck it, i work on the dependecies and kvm tomorrow, the script can install that and put the programs on the Tmpp array basicaly the array that tells what programs are going nuke when this installs and the first reboot ocurs"
+
+"also now i programed the postinstall_cleanup_script.sh what it does? literaly what the names says, because pantuga has not reached here yet to put the things i worked now on git you cant see what i am talking, i hope he doenst get confused when i show all what i did, anyway"
+
+"i also maked a new folder called logs, it has the logs of the temporary packages of the installer basicaly tells mw what is on the temporary packages or the tmpp array and that was pretty much it for today very very very early morning, i need to rest my head, i probably will set a kvm tomorrow, now im going to make a txt for pantuga so he can see what to do, oh right almost forgot"
+
+"i also on the core folder putted all the things if v0.1 on a folder so it dont get mixed anyway now im done"
+
+"now have a good night, or day i really dont care" - Kilko64
