@@ -84,3 +84,19 @@ many separators like drivers for wifi, drivers for ethernet, drivers for gpu, ot
 
 00:17
 So, I am cridr4edri I joined mostly because they didn't really care about grammar and spelling mistakes, my writing isn't flawless but at least I check to see if everything is correct ESPECIALLY IF IT'S FOR README though my knowledge(yes, pantuga it has a W) about Linux and Bash is also limited, I have dual boot but I don't really use Linux that much. However I am willing to learn Bash to help kilko.
+
+-------
+
+"so kilko here, its now 0:45 and i have setted up an KVM and i can run ISOs on my computer now, one step closer to the objective, also i have been studiyng about how do i create the Iso files i am not sure about how it works so dont expect me to tomorrow have the folders for isos creations"
+
+"you probably seen the text above this and yes cridr4edri the same i said thank you is now on the project as they say, more better, anyway i had been learning abou how to create the folders for the iso and i probably needing to create more folders like a chroot filesystem and i would also need to create a new folder called iso on that folder its gonna have boot/ and install/ and other files, in boot im probably adding grub/ isolinux/ and in isolinux/ im adding isolinux.cfg where its going to have the congs for the bootloader, do not confuse yourslef thought this is not the file system of the thing you install to your pc, this is the filesystem so it can run the geckomanager, now getting back to the folder iso i also mentioned a folder called install/ on that is going to have the geckomanager.sh the root script i have been working on, i supose this is the correct way to how to do it, im not sure, this is probably one of the hardest parts of the project because i cant test it, but im sure as time go on this going to turn into an hobby and i hope this all worksout, but i cant be stopped i need to continue learning reading and smashing my head into the keyboard, oh and i need to program the grub and configuration files on this too"
+
+"i hope i can get cridr4edri into this too, he can learn a bunch, also both Pantuga and cridr4edri currently are using windows as default, because im not familiar with vscode its gonna be pantuga helping cridr4edri on using the vscode and me actually helping cridr4edri learn about bash, im sure he can use this project as a great way to learn about it too, but im not sure if he can get certain things done withou the knowleddge i have about linux, well im sure time going to help him out"
+
+"anyway when i get done creating the iso folders and all its need and about crhoot folder too that i really dont knowed about, im going to be calling it probably Gecko Manager v0.3, it can take a while now even more because this is a whole new thing i need to do and know and i really was caught on suprise, and i have to split my time on this, helping crdr4edri learning, my life, and also a bit of playtime"
+
+"well thats all, also im going to make probably a set of days where i work on this or not, i think i have this in mind"
+
+"monday i rest its a day off this project, tuesday i work on the project and i stay late at night to work, on wednesday i also work and stay late at night, thursday i work on this and stay up at night, but i go to rest a bit earlier, friday is day off (ocasionaly working on the afternoons), saturday  i rest and i work on afternoon, and on sunday i rest like a day off not doing nothing, im probably going to do this so dont expect me much on certain days well thats all"
+
+"have a good night or not, fuck you, im kidding have a good night byee" - Kilko64
