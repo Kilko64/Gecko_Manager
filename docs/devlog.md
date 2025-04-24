@@ -28,7 +28,7 @@ A record of all the devs' reflections while making this project.
 
 "My knoledge on Linux and Bash scripts is limited, but i'm hoping to learn from this project. Besides, you never know if a project is gonna be revolutionary or not." - Pantuga
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------
 
 "its kilko talking here now, its 21:30 and i started solidifiyng the gecko manager,im making the v0.2 this is not easy, the one is on git now is the v0.1 when i """"finish"""" or make the v0.2 a bit more usefull i probably put it all there, also i might ask pantuga to make another folder, a folder for older versions he probably knows a way better to do it tought"
 
@@ -51,7 +51,8 @@ many separators like drivers for wifi, drivers for ethernet, drivers for gpu, ot
 "its kilko again, imgoing to start working at this in a bit, its now 0:25 and im going to start this at 1 am, just wanted to say an honorable mention to the user Cridr4edri"
 "that user called cridr4edri helped me on the grammar errors and catching spelling errors on the git readme and etc, without his help i wouldn't even cared for the errors so thank you cridr4edri for your good english" - Kilko64
 
----------------------------------------------------------------------------------------------------------------------------
+------
+
 "hi kilko here its 2:11 am im tired and im going to end early because i have sleeped at 4 am yesterday and the other day too so i need to get some good hours of sleep, i have done some progress though"
 
 "ok first thing is, i setted the essential debs on GeckoManager v0.2 so now the essential packages are on the Fdriver folder and i dont need wifi to install it, i may have changed a bit the Fdriver folder, i putted all on the subfolder Networkingapps so all the programs are there, but theres a problem, i counld put there the depencides too so its something i need to work, need to put the dependecies there too"
