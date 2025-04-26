@@ -97,6 +97,6 @@ So, I am cridr4edri I joined mostly because they didn't really care about gramma
 
 "well thats all, also im going to make probably a set of days where i work on this or not, i think i have this in mind"
 
-"monday i rest its a day off this project, tuesday i work on the project and i stay late at night to work, on wednesday i also work and stay late at night, thursday i work on this and stay up at night, but i go to rest a bit earlier, friday is day off (ocasionaly working on the afternoons), saturday  i rest and i work on afternoon, and on sunday i rest like a day off not doing nothing, im probably going to do this so dont expect me much on certain days well thats all"
+"monday i rest its a day off this project, tuesday i work on the project and i stay late at night to work, on wednesday i also work and stay late at night, thursday i work on this and stay up at night, but i go to rest a bit earlier, friday is day off (ocasionaly working on the afternoons), saturday  i rest (Normaly researching what i have to do nextjust planning), and on sunday i rest like a day off not doing nothing, im probably going to do this so dont expect me much on certain days well thats all"
 
 "have a good night or not, fuck you, im kidding have a good night byee" - Kilko64
