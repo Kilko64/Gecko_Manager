@@ -133,4 +133,4 @@ So, I am cridr4edri I joined mostly because they didn't really care about gramma
 
 "also cridr4edri, if you read this, you better start doing it too if you want to do the scripting too, but since you already know more linux than ani you probably fine"
 
-"now good luck and yes im going to hopely if i dont get hooked today work on the project, on this case working on solving the chroot error or finding any alternarives like using another of my old and shitty pcs for that, now byeeeeee"
+"now good luck and yes im going to hopely if i dont get hooked today work on the project, on this case working on solving the chroot error or finding any alternarives like using another of my old and shitty pcs for that, now byeeeeee" - kilko64
