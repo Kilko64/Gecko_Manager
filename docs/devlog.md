@@ -134,3 +134,7 @@ So, I am cridr4edri I joined mostly because they didn't really care about gramma
 "also cridr4edri, if you read this, you better start doing it too if you want to do the scripting too, but since you already know more linux than ani you probably fine"
 
 "now good luck and yes im going to hopely if i dont get hooked today work on the project, on this case working on solving the chroot error or finding any alternarives like using another of my old and shitty pcs for that, now byeeeeee" - kilko64
+
+## 5-05-2025
+
+"hi its kilko its now 16:00 and i finally have restored my stamina to continue the project, hoppefully finally trying to solve this fucking Chroot problem once and for all, il try to work on this, hopefully not skipping days because im lazy, i might work on the chroot problem today or tomorrow, also im helping ani on this, explaining some things, i hope i could call him just to work on this and help him learn, anyway, Ani if you are reading this, just call me to fucking help you, also i might install linux on a old laptop of cridr4edri and help him join the code too, so yes this project is not stopped at all its just me who got a few days of because of lazyness or tiredness and now im going to work on this again, to be sincere i probably stoped because the problem of chroot its literaly an hell having to reboot the pc all time i enter chroot to edit something on the iso, anyway its just a reminder that im working on this and this inst actually stoped im always thinking on some solution or on helping ani or cridr4edri to enter the code" - Kilko64
