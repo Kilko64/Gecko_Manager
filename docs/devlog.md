@@ -138,3 +138,17 @@ So, I am cridr4edri I joined mostly because they didn't really care about gramma
 ## 5-05-2025
 
 "hi its kilko its now 16:00 and i finally have restored my stamina to continue the project, hoppefully finally trying to solve this fucking Chroot problem once and for all, il try to work on this, hopefully not skipping days because im lazy, i might work on the chroot problem today or tomorrow, also im helping ani on this, explaining some things, i hope i could call him just to work on this and help him learn, anyway, Ani if you are reading this, just call me to fucking help you, also i might install linux on a old laptop of cridr4edri and help him join the code too, so yes this project is not stopped at all its just me who got a few days of because of lazyness or tiredness and now im going to work on this again, to be sincere i probably stoped because the problem of chroot its literaly an hell having to reboot the pc all time i enter chroot to edit something on the iso, anyway its just a reminder that im working on this and this inst actually stoped im always thinking on some solution or on helping ani or cridr4edri to enter the code" - Kilko64
+
+## 6-05-2025
+
+"hi kilko here, im doing the iso stuff, i still have the error and i cant solve it, so i have to live with it, anyway, i am creating the iso, and im having some trouble, like setting this to autologin so even if i only have a root password on the iso it doenst tell me to login, im having some trouble with that, this is the worst part of all the project, i would probably need to remake this a lot, like try, failed, try, failed, its working, try again and see if i can put it to work again, and do that a bunch of times until the iso is ok and good to go, i also needed to make some changes to the main script because it needs to have the flag so grub can see that on the options i made and run the installer right after i select the option"
+
+"another thing i have done this one yesterday is that i helped ani a little with the linux stuff he is now learning what the folders on root and unix systems does, i think he has hope to join the code, but he still has a lot to learn"
+
+"another thing about the iso creation is that it takes a bunch of times to update the iso of my changes, or atleast is what i think, because this is certainly something i do know little to not knowing att all because of that i dont know about many commands about this and the process to how i do it, that turns this slow, because i dont know what im doing, turns this into an trial and error, and until i can make this easy enought and compreend this well im doing this thing"
+
+"work ---> see the results, if error ---> document on git ---> repeat, else ---> study what i have done ----> work ---> document on git ----> start from zero ----> repeat"
+
+"and thats how, i lost my sanity" - Kilko64
+
+
