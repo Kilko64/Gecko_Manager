@@ -151,4 +151,7 @@ So, I am cridr4edri I joined mostly because they didn't really care about gramma
 
 "and thats how, i lost my sanity (and my virginity to this project)" - Kilko64
 
+"its been so long, its BEEN FUCKIN MORE THAN AN HOUR AND THIS SHIT OF ISO, IS STILL CREATING THE ISO FOR ME TO TEST IT ON KVM, ITS ON 52% THE OTHER MESSAGES I SEND IT HAS BEEN ON 4%, ITS LITERALY 16:00 HOW? HOW????? TELL ME WHY???" - Kilko64
+
+
 
