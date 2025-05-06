@@ -149,6 +149,6 @@ So, I am cridr4edri I joined mostly because they didn't really care about gramma
 
 "work ---> see the results, if error ---> document on git ---> repeat, else ---> study what i have done ----> work ---> document on git ----> start from zero ----> repeat"
 
-"and thats how, i lost my sanity" - Kilko64
+"and thats how, i lost my sanity (and my virginity to this project)" - Kilko64
 
 
