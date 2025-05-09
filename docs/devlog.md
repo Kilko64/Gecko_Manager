@@ -153,5 +153,11 @@ So, I am cridr4edri I joined mostly because they didn't really care about gramma
 
 "its been so long, its BEEN FUCKIN MORE THAN AN HOUR AND THIS SHIT OF ISO, IS STILL CREATING THE ISO FOR ME TO TEST IT ON KVM, ITS ON 52% THE OTHER MESSAGES I SEND IT HAS BEEN ON 4%, ITS LITERALY 16:00 HOW? HOW????? TELL ME WHY???" - Kilko64
 
+## 8-05-2025
+
+"yes, still water, no not that i meant still with chroot error, its now 1:39 and im not working directly on the project i really got stuck on this massive wall (yes i sayed massive, that meme died a long time ago so wtf), but hopeffuly i will pass it break it and then break it down here, anyway what i wanted to talk about its not about that i think if you read the before this you probably want to hit your head into a wall and try reach nirvana or jesus faster, what i wanted to talk is that pantuga is becoming less active and it can actually lose is contribuiton role, for now is just working uploading things to git, but its just that, he dindt help me on wahtever other shit, and normaly im calm about that, let me just help him learn, but that little fucker doenst want, i asked him when you wanted me to teatch you, he sayed, "i dont know if i want because im not much into that kinda of deep stuff" and if he even i dont know atleast maked some research like tryng to help me on any way, but no he doenst, i dont even think he is reading this, so just for a moment let me insult him you little @#!$&§ and you god damn #!&&% why dont you go #$&% yourself and borrow your mom to help me #%$! her better and hit your godman %&#!&@ #$& hole, anyway, sorry if i was a little agressive because it was meant to be, so i probably figure out a way to put things on git without him and when i discover that he is going to be on maximum a tester, so he has plenty off time to wait until he wants to learn, because without someone helping me on the code, this certainly will, hopefully ani is already learning he is not like pantuga is probably going to join code sooner than i might think, and for cri4edri he is going to buy a usb drive and start learning too" - Kilko64
+
+("if you are reading this pantuga you goddamn &%@# why dont you grab this text and put it right up your #@% hole, because i know that think is deep by now") - Kilko64
+
 
 
